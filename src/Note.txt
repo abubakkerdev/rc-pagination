@@ -1,0 +1,32 @@
+
+
+npm i rc-pagination
+
+npm i rc-select
+
+npm install -D less
+
+
+console.log(current, type, element);
+
+1 'jump-prev' {$$typeof: Symbol(react.element), type: 'button', key: null, ref: null, props: {…}}
+6 'jump-next' {$$typeof: Symbol(react.element), type: 'button', key: null, ref: null, props: {…}}
+0 'prev' {$$typeof: Symbol(react.element), type: 'button', key: null, ref: null, props: {…}}
+2 'next' {$$typeof: Symbol(react.element), type: 'button', key: null, ref: null, props: {…}}
+1 'page' {$$typeof: Symbol(react.element), type: 'a', key: null, ref: null, props: {…}}
+2 'page' {$$typeof: Symbol(react.element), type: 'a', key: null, ref: null, props: {…}}
+3 'page' {$$typeof: Symbol(react.element), type: 'a', key: null, ref: null, props: {…}}
+4 'page' {$$typeof: Symbol(react.element), type: 'a', key: null, ref: null, props: {…}}
+5 'page' {$$typeof: Symbol(react.element), type: 'a', key: null, ref: null, props: {…}}
+10 'page' {$$typeof: Symbol(react.element), type: 'a', key: null, ref: null, props: {…}}
+
+
+
+defaultPageSize={20}  per page show data
+
+defaultCurrent={5} current page show
+
+
+
+
+
